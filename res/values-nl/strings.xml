@@ -115,7 +115,7 @@
     <string name="statusbar_autoscreen_off">AutoScreen is Gedeactiveerd.</string>
 
     <!-- no translation -->
-    <string name="author_url">https://github.com/plateaukao/PowerOff</string>
+    <string name="author_url">https://github.com/plateaukao/AutoScreenOnOff</string>
     <string name="playstore_url">https://play.google.com/store/apps/details?id=com.danielkao.autoscreenonoff</string>
     <string name="pref_play_close_sound">Speel geluid wanner scherm uit is.</string>
     <string name="pref_title_play_close_sound">Play Close Sound</string>

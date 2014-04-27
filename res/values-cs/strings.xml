@@ -2,7 +2,7 @@
 <resources>
     <string name="action_settings">Nastavení</string>
     <string name="app_name">AutoScreenOnOff</string>
-    <string name="author_url">https://github.com/plateaukao/PowerOff</string>
+    <string name="author_url">https://github.com/plateaukao/AutoScreenOnOff</string>
     <string name="changelog_html">
         <![CDATA[
         <b>Version 2.3 (2014/02/14)</b>
@@ -44,7 +44,7 @@ v%s"</string>
     <string name="pref_summary_timeout_lock">"Zpoždění než se Obrazovka Vypne.
 
 Aktuální nastavení:%s"</string>
-    <string name="pref_summary_timeout_unlock">"Zpoždění než se Obrazovka Zapne. 
+    <string name="pref_summary_timeout_unlock">"Zpoždění než se Obrazovka Zapne.
 
 Aktuální nastavení:%s"</string>
     <string name="pref_title_auto_on">Povolit</string>

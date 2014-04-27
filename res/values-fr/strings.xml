@@ -149,7 +149,7 @@
     <string name="statusbar_autoscreen_off">Extinction automatique désactivée</string>
 
     <!-- no translation -->
-    <string name="author_url">https://github.com/plateaukao/PowerOff</string>
+    <string name="author_url">https://github.com/plateaukao/AutoScreenOnOff</string>
     <string name="playstore_url">https://play.google.com/store/apps/details?id=com.danielkao.autoscreenonoff</string>
     <string name="pref_play_close_sound">Joue un son lors de l\'extinction automatique de l\'écran</string>
     <string name="pref_title_play_close_sound">Écouter le son</string>
