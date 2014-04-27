@@ -199,7 +199,7 @@
     <string name="statusbar_autoscreen_off">AutoScreen is disabled.</string>
 
     <!-- no translation -->
-    <string name="author_url">https://github.com/plateaukao/PowerOff</string>
+    <string name="author_url">https://github.com/plateaukao/AutoScreenOnOff</string>
     <string name="playstore_url">https://play.google.com/store/apps/details?id=com.danielkao.autoscreenonoff</string>
 
     <string name="pref_play_close_sound">Play sound while auto turning off screen</string>
